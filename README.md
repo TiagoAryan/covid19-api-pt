@@ -1,10 +1,8 @@
-<div>
-        <h1> Covid19 API PT Wapper </h1>
-    <strong> <i>An API wrapper to get information about the Covid19 from Portugal.</i></strong>
-    <br>
+# Covid19 API PT Wapper
+
+An API wrapper to get information about the Covid19 from Portugal.
+
 > wraps open API [DSSG Portugal / VOST REST API by dssg-pt](https://github.com/dssg-pt/Docker_COVID_API)
-<hr>
-</div>
 
 ## Installation
 
@@ -43,19 +41,19 @@ const track = new CovidPT();
 ### Status
 
 ```js
-.status();
+.status(); // For State of the API
 ```
 
 ### All
 
 ```js
-.all();
+.all(); // For Full Dataset
 ```
 
 ### Last Update
 
 ```js
-.last(); // for ALL.
+.last(); // For Last Updated Entry
 ```
 
 ### Get Update
