@@ -1,6 +1,6 @@
 {
   "name": "covid19-api-pt",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "An API wrapper to get information about the Covid19 from Portugal.",
   "keywords": [
     "coronavirus",
@@ -19,6 +19,10 @@
   },
   "author": {
     "name": "tiagoaryan"
+  },
+  "homepage": "https://github.com/TiagoAryan/covid19-api-pt#readme",
+  "bugs": {
+    "url": "https://github.com/TiagoAryan/covid19-api-pt/issues"
   },
   "license": "GPL-3.0"
 }
