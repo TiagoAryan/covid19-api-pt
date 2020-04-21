@@ -1,0 +1,24 @@
+{
+  "name": "covid19-api-pt",
+  "version": "0.0.2",
+  "description": "An API wrapper to get information about the Covid19 from Portugal.",
+  "keywords": [
+    "coronavirus",
+    "covid19",
+    "wrapper",
+    "api",
+    "pt"
+  ],
+  "main": "./dist/index.js",
+  "bundleDependencies": false,
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "tiagoaryan"
+  },
+  "license": "GPL-3.0"
+}
